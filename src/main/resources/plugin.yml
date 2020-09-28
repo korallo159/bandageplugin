@@ -1,0 +1,11 @@
+name: Bandage
+version: ${project.version}
+main: koral.bandageplugin.Bandageplugin
+api-version: 1.13
+authors: [koral]
+description: plugin that use bandage to regenration
+commands:
+  dajbandaz:
+    permission: bandageplugin.admin
+  bandagereload:
+    permission: bandageplugin.admin

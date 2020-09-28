@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="bandageplugin:jar">
+    <output-path>$USER_HOME$/Desktop/moje pluginy/plugins</output-path>
+    <root id="archive" name="bandageplugin.jar">
+      <element id="module-output" name="bandageplugin" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,14 @@
+#bandageplugin
+
+bandagename: "Bandaż"
+
+bandagelore: 'Kliknij prawym na siebie, lub inną osobę, aby się wyleczyć'
+
+# disable global HP regeneration. If player have permission bandageplugin.admin he will regenerate his hp if its true
+disableregeneration: true
+
+#bandagecooldown in integral unit (seconds)
+cooldown: 3
+
+#amount of heal      10 hearts = 20
+healamount: 6
